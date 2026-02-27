@@ -1,2 +1,5 @@
-# Software-Engineering-Sessional
-Web based project in Software Engineering Sessional
+# Software-Engineering-Sessional 
+# Web Development Project
+   Date                Activity: 
+25/02/2026         Planing and learning
+
