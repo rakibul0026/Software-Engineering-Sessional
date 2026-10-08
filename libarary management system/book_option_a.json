@@ -1,0 +1,115 @@
+{
+  "book_option": "A",
+  "catalog": {
+    "categories": [
+      "GENERAL",
+      "ENGINEERING",
+      "PROGRAMMING",
+      "MATHEMATICS",
+      "ROBOTICS",
+      "DATA SCIENCE",
+      "COMPUTER SCIENCE"
+    ],
+    "books": {
+      "img_book_001": {
+        "title": "Machine Learning Algorithm",
+        "author": "CSTU Library",
+        "category": "GENERAL",
+        "isbn": "Pending (img_ML_001)",
+        "total_quantity": 15,
+        "available_quantity": 15,
+        "ui_asset_path": "/images/front_img_cover.jpg",
+        "cover_image": "/images/front_img_cover.jpg",
+        "description": "Introduction to fundamental ML concepts."
+      },
+      "img_book_002": {
+        "title": "Engineering II",
+        "author": "Academic Press",
+        "category": "ENGINEERING",
+        "isbn": "Pending (img_ENG_002)",
+        "total_quantity": 15,
+        "available_quantity": 15,
+        "ui_asset_path": "/images/Engineering_II_Cover_WEB.jpg",
+        "cover_image": "/images/Engineering_II_Cover_WEB.jpg",
+        "description": "Advanced engineering principles."
+      },
+      "img_book_003": {
+        "title": "C++ Programming",
+        "author": "Brian Kernighan",
+        "category": "PROGRAMMING",
+        "isbn": "Pending (img_CPP_003)",
+        "total_quantity": 15,
+        "available_quantity": 15,
+        "ui_asset_path": "/images/c-programming.jpg",
+        "cover_image": "/images/c-programming.jpg",
+        "description": "Mastering the C++ language."
+      },
+      "img_book_004": {
+        "title": "Fundamentals of Mathematics",
+        "author": "CSTU Research Unit",
+        "category": "MATHEMATICS",
+        "isbn": "Pending (img_MATH_004)",
+        "total_quantity": 15,
+        "available_quantity": 15,
+        "ui_asset_path": "/images/fundamentals-of-math.jpg",
+        "cover_image": "/images/fundamentals-of-math.jpg",
+        "description": "Core concepts for beginners."
+      },
+      "img_book_005": {
+        "title": "Bots and Automation",
+        "author": "Tech Future Team",
+        "category": "ROBOTICS",
+        "isbn": "Pending (img_BOTS_005)",
+        "total_quantity": 15,
+        "available_quantity": 15,
+        "ui_asset_path": "/images/bots-cover.jpg",
+        "cover_image": "/images/bots-cover.jpg",
+        "description": "Introduction to robotics and automated systems."
+      },
+      "img_book_006": {
+        "title": "Big Data Essentials",
+        "author": "Data Lab",
+        "category": "DATA SCIENCE",
+        "isbn": "Pending (img_BIGDATA_006)",
+        "total_quantity": 15,
+        "available_quantity": 15,
+        "ui_asset_path": "/images/bigdata-cover.jpg",
+        "cover_image": "/images/bigdata-cover.jpg",
+        "description": "Understanding large data sets."
+      },
+      "img_book_007": {
+        "title": "Operating Systems Concepts",
+        "author": "Silberschatz",
+        "category": "COMPUTER SCIENCE",
+        "isbn": "Pending (img_OS_007)",
+        "total_quantity": 15,
+        "available_quantity": 15,
+        "ui_asset_path": "/images/os-cover.jpg",
+        "cover_image": "/images/os-cover.jpg",
+        "description": "Fundamental OS architecture."
+      },
+      "img_book_008": {
+        "title": "Machine Learning",
+        "author": "CSE Final Question",
+        "category": "COMPUTER SCIENCE",
+        "isbn": "Pending (img_ML_008)",
+        "total_quantity": 15,
+        "available_quantity": 15,
+        "ui_asset_path": "/images/ML_Cover.png",
+        "cover_image": "/images/ML_Cover.png",
+        "description": "Computer Science approach to ML."
+      },
+      "img_book_009": {
+        "title": "Robotics Fundamentals",
+        "author": "STEM Library",
+        "category": "ROBOTICS",
+        "isbn": "Pending (img_ROB_009)",
+        "total_quantity": 15,
+        "available_quantity": 15,
+        "ui_asset_path": "/images/Robotics_Cover.jpg",
+        "cover_image": "/images/Robotics_Cover.jpg",
+        "description": "Foundational knowledge in robotics."
+      }
+    }
+  }
+}

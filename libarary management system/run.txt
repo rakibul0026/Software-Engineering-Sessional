@@ -1,0 +1,9 @@
+Backend:
+cd "e:\react_library_manegement_system\libarary management system\Backend"
+Activate.ps1
+python manage.py runserver 127.0.0.1:8000
+
+Frontend:
+cd "e:\react_library_manegement_system\libarary management system\react-frontend"
+$env:VITE_API_BASE_URL="http://127.0.0.1:8000"
+npm run dev -- --host 127.0.0.1 --port 5173
